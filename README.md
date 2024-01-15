@@ -141,4 +141,4 @@ program yang dibuat adalah implementasi program yang melakukan pengurutan data n
 [Sort](https://youtu.be/bGV6B6mAiug)
 # kesimpulan 
 
-Repository ini berisi tentang aplikasi sederhana implementasi struktur data yang terdiri dari Link-list, Tree, short, Dan graph. Diharapkan settelah membuka repositori ini bisa memecahkan permasalahan yang ada, serta menunjukan pemahaman tentang struktur data.
+Repository ini berisi tentang aplikasi sederhana implementasi struktur data yang terdiri dari Link-list, Tree,Graph, dan sort. Diharapkan setelah membuka repositori ini bisa memecahkan permasalahan yang ada, serta menunjukan pemahaman tentang struktur data.
