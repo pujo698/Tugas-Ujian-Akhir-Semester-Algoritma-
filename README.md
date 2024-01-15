@@ -9,44 +9,23 @@
 
 # Deskripsi Project
 
-## Graph
-
-program yang dibuat merupakan implementasi program untuk analisis graf. Program ini menggunakan konsep struktur data graf dengan menyimpan sisi-sisi antar simpul dalam vektor. Program dapat menghitung jumlah komponen terhubung dalam graf, menemukan simpul pusat (central nodes) berdasarkan derajat tertinggi, dan menemukan simpul tepi (peripheral nodes) berdasarkan derajat terendah.
-
 ## Link List
 
 program yang telah dibuat mengimplementasikan linked list sederhana, dimana setiap elemen direpresentasikan oleh struktur data Node. Program memungkinkan pengguna untuk secara interaktif memasukkan data baru ke linked list dan mencetak isi linked list setelah pengguna selesai memasukkan data. Selain itu, program memastikan penghapusan semua node setelah digunakan untuk menghindari kebocoran memori. Ini merupakan contoh dasar penggunaan linked list dalam C++ yang mencakup penambahan, pencetakan, dan penghapusan elemen pada struktur data tersebut.
-
-## Short
-
-program yang dibuat adalah implementasi program yang melakukan pengurutan data nilai siswa pada beberapa mata pelajaran menggunakan algoritma Bubble Sort. Program ini meminta pengguna untuk memasukkan jumlah nilai siswa beserta nilai dan nama mata pelajaran secara interaktif. Setelah mendapatkan input, program menampilkan data sebelum diurutkan, kemudian menerapkan algoritma Bubble Sort untuk mengurutkan nilai siswa dan nama mata pelajaran secara ascending, dan akhirnya menampilkan hasil pengurutan. 
 
 ## Tree
 
 kami membuat program c++ yang mengimplementasikan struktur data pohon biner pencarian (Binary Search Tree - BST) untuk menyimpan data mahasiswa berupa NIM dan nama. Setiap node dalam pohon memiliki data NIM, nama, serta pointer ke anak kiri (kiri) dan anak kanan (kanan). Fungsi push digunakan untuk menambahkan data baru ke dalam pohon berdasarkan relasi NIM. Program memungkinkan pengguna untuk memasukkan data mahasiswa secara interaktif dan kemudian menampilkan data secara terurut (in-order traversal) berdasarkan NIM. Pohon biner ini membantu pengelolaan dan pencarian data secara efisien dengan memanfaatkan sifat terurutnya.
 
+## Graph
+
+program yang dibuat merupakan implementasi program untuk analisis graf. Program ini menggunakan konsep struktur data graf dengan menyimpan sisi-sisi antar simpul dalam vektor. Program dapat menghitung jumlah komponen terhubung dalam graf, menemukan simpul pusat (central nodes) berdasarkan derajat tertinggi, dan menemukan simpul tepi (peripheral nodes) berdasarkan derajat terendah.
+
+## Sort
+
+program yang dibuat adalah implementasi program yang melakukan pengurutan data nilai siswa pada beberapa mata pelajaran menggunakan algoritma Bubble Sort. Program ini meminta pengguna untuk memasukkan jumlah nilai siswa beserta nilai dan nama mata pelajaran secara interaktif. Setelah mendapatkan input, program menampilkan data sebelum diurutkan, kemudian menerapkan algoritma Bubble Sort untuk mengurutkan nilai siswa dan nama mata pelajaran secara ascending, dan akhirnya menampilkan hasil pengurutan. 
+
 # Petunjuk Cara Penggunaan
-## Tree
-### Langkah 1: Menambahkan Data Mahasiswa
-
-1. Jalankan program dengan mengkompilasi dan menjalankan binary hasil kompilasi.
-2. Masukkan NIM mahasiswa saat diminta. Jika ingin mengakhiri, masukkan -1.
-3. Setelah semua data dimasukkan, program akan menampilkan data mahasiswa secara terurut berdasarkan ID.
-
-### Langkah 2: Menampilkan Data Mahasiswa
-
-1. Setelah memasukkan data, program akan menampilkan data mahasiswa secara in-order.
-2. Data ditampilkan dalam format "ID: `<ID>`, Nama: `<Nama>`".
-
-### Langkah 3: Menghentikan Program
-
-1. Setelah data ditampilkan, program akan menunggu masukan tambahan.
-2. Tekan Enter atau pilih cara sesuai kebutuhan untuk mengakhiri program.
-
-### Catatan:
-
-- Pastikan untuk memasukkan data mahasiswa sesuai instruksi dan menghentikan input dengan memasukkan -1 saat diminta.
-- Program akan menampilkan data mahasiswa secara in-order setelah semua data dimasukkan.
 
 ## Link-list
 
@@ -72,6 +51,28 @@ kami membuat program c++ yang mengimplementasikan struktur data pohon biner penc
 - Pastikan memasukkan data sesuai dengan yang diminta.
 - Anda dapat menambahkan sejumlah elemen ke dalam linked list sesuai keinginan.
 - Program akan menghapus semua node linked list setelah selesai digunakan untuk mencegah kebocoran memori.
+  
+## Tree
+### Langkah 1: Menambahkan Data Mahasiswa
+
+1. Jalankan program dengan mengkompilasi dan menjalankan binary hasil kompilasi.
+2. Masukkan NIM mahasiswa saat diminta. Jika ingin mengakhiri, masukkan -1.
+3. Setelah semua data dimasukkan, program akan menampilkan data mahasiswa secara terurut berdasarkan ID.
+
+### Langkah 2: Menampilkan Data Mahasiswa
+
+1. Setelah memasukkan data, program akan menampilkan data mahasiswa secara in-order.
+2. Data ditampilkan dalam format "ID: `<ID>`, Nama: `<Nama>`".
+
+### Langkah 3: Menghentikan Program
+
+1. Setelah data ditampilkan, program akan menunggu masukan tambahan.
+2. Tekan Enter atau pilih cara sesuai kebutuhan untuk mengakhiri program.
+
+### Catatan:
+
+- Pastikan untuk memasukkan data mahasiswa sesuai instruksi dan menghentikan input dengan memasukkan -1 saat diminta.
+- Program akan menampilkan data mahasiswa secara in-order setelah semua data dimasukkan.
   
 ## Graph
 ### Langkah 1: Masukkan Jumlah Simpul dan Sisi
@@ -128,16 +129,16 @@ kami membuat program c++ yang mengimplementasikan struktur data pohon biner penc
 - Pastikan memasukkan jumlah nilai siswa dan data nilai sesuai dengan petunjuk.
 - Ikuti petunjuk program untuk memasukkan nilai dan nama mata pelajaran dengan benar.
 - Program akan memberikan hasil pengurutan menggunakan Bubble Sort pada akhir eksekusi.
-- 
+  
 # penjelasan lebih lanjut menggunakan video youtube
-## Graph
-[Graph](https://youtu.be/W8ItZiyeVLs)
 ## Link-list
 [Link-list](https://youtu.be/kbHc6i0rZSE)
 ## Tree
 [Tree](https://youtu.be/S1H_gmRln-o)
-## Short
-[Short](https://youtu.be/bGV6B6mAiug)
+## Graph
+[Graph](https://youtu.be/W8ItZiyeVLs)
+## Sort
+[Sort](https://youtu.be/bGV6B6mAiug)
 # kesimpulan 
 
 Repository ini berisi tentang aplikasi sederhana implementasi struktur data yang terdiri dari Link-list, Tree, short, Dan graph. Diharapkan settelah membuka repositori ini bisa memecahkan permasalahan yang ada, serta menunjukan pemahaman tentang struktur data.
