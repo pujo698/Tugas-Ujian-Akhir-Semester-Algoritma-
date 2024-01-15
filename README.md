@@ -102,7 +102,7 @@ program yang dibuat adalah implementasi program yang melakukan pengurutan data n
 - Ikuti petunjuk program untuk memasukkan sisi graf dengan benar.
 - Hasil analisis graf akan ditampilkan setelah memasukkan semua sisi.
 
-## Short
+## Sort
 ### Langkah 1: Memasukkan Data Nilai dan Nama Mata Pelajaran
 
 1. Jalankan program dengan mengkompilasi dan menjalankan binary hasil kompilasi.
