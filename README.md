@@ -129,7 +129,7 @@ kami membuat program c++ yang mengimplementasikan struktur data pohon biner penc
 - Ikuti petunjuk program untuk memasukkan nilai dan nama mata pelajaran dengan benar.
 - Program akan memberikan hasil pengurutan menggunakan Bubble Sort pada akhir eksekusi.
 - 
-# penjelasan lebih lanjut menggunkan video youtube
+# penjelasan lebih lanjut menggunakan video youtube
 ## Graph
 [Graph](https://youtu.be/W8ItZiyeVLs)
 ## Link-list
