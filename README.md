@@ -1,13 +1,13 @@
-# kelompok 1 Algoritma dan Struktur Data
+# Kelompok 1 Algoritma dan Struktur Data
 
-## anggota kelompok 
+## Anggota Kelompok 
 1. Alif Naufal Adani-32602300006
 2. Mohammad Fahd Fadllurrohman-32602300007
 3. Wahid Sandy Pujo Dzulhijayanto-32602300015
 4. Muhammad Yanuar Anshori-32602300028
 5. Lia Rahma Asnaini-32602300033
 
-# Deskripsi project
+# Deskripsi Project
 
 ## Graph
 
@@ -26,7 +26,7 @@ program yang dibuat adalah implementasi program yang melakukan pengurutan data n
 kami membuat program c++ yang mengimplementasikan struktur data pohon biner pencarian (Binary Search Tree - BST) untuk menyimpan data mahasiswa berupa NIM dan nama. Setiap node dalam pohon memiliki data NIM, nama, serta pointer ke anak kiri (kiri) dan anak kanan (kanan). Fungsi push digunakan untuk menambahkan data baru ke dalam pohon berdasarkan relasi NIM. Program memungkinkan pengguna untuk memasukkan data mahasiswa secara interaktif dan kemudian menampilkan data secara terurut (in-order traversal) berdasarkan NIM. Pohon biner ini membantu pengelolaan dan pencarian data secara efisien dengan memanfaatkan sifat terurutnya.
 
 # Petunjuk Cara Penggunaan
-## tree
+## Tree
 ### Langkah 1: Menambahkan Data Mahasiswa
 
 1. Jalankan program dengan mengkompilasi dan menjalankan binary hasil kompilasi.
@@ -101,7 +101,7 @@ kami membuat program c++ yang mengimplementasikan struktur data pohon biner penc
 - Ikuti petunjuk program untuk memasukkan sisi graf dengan benar.
 - Hasil analisis graf akan ditampilkan setelah memasukkan semua sisi.
 
-## short
+## Short
 ### Langkah 1: Memasukkan Data Nilai dan Nama Mata Pelajaran
 
 1. Jalankan program dengan mengkompilasi dan menjalankan binary hasil kompilasi.
@@ -131,9 +131,13 @@ kami membuat program c++ yang mengimplementasikan struktur data pohon biner penc
 - 
 # penjelasan lebih lanjut menggunkan video youtube
 ## Graph
+[Graph](https://youtu.be/W8ItZiyeVLs)
 ## Link-list
+[Link-list](https://youtu.be/kbHc6i0rZSE)
 ## Tree
+[Tree](https://youtu.be/S1H_gmRln-o)
 ## Short
+[Short](https://youtu.be/bGV6B6mAiug)
 # kesimpulan 
 
 Repository ini berisi tentang aplikasi sederhana implementasi struktur data yang terdiri dari Link-list, Tree, short, Dan graph. Diharapkan settelah membuka repositori ini bisa memecahkan permasalahan yang ada, serta menunjukan pemahaman tentang struktur data.
